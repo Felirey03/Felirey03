@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hola, soy Felipe Reynoso
 
-<!--
-**Felirey03/Felirey03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Python | Odoo
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+- Python
+- FastAPI
+- PostgreSQL
+- Docker
+- Odoo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=felipe)
+
+## 📫 Contacto
+- LinkedIn
+- Email
