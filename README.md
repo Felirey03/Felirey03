@@ -5,9 +5,10 @@ Backend Developer | Python | Odoo
 ## 🚀 Tecnologías
 - Python
 - FastAPI
+- Odoo
 - PostgreSQL
 - Docker
-- Odoo
+
 
 
 ## 📫 Contacto
