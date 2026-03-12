@@ -13,5 +13,5 @@ Backend Developer | Python | Odoo
 ![stats](https://github-readme-stats.vercel.app/api?username=felipe)
 
 ## 📫 Contacto
-- LinkedIn ![link](www.linkedin.com/in/felipe-reynoso315-b26238255)
+- LinkedIn(www.linkedin.com/in/felipe-reynoso315-b26238255)
 - Email
