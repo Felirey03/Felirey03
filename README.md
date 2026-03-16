@@ -1,13 +1,10 @@
 # 👋 Hola, soy Felipe Reynoso
 
-Soy desarrollador de Odoo y tambien de backend, utilizando python como mi lenguaje principal. Además, utilizo frameworks como Flask, Django, FastAPI.
+Backend Developer | Python | Odoo
 
-## 🚀 Tecnologías
-- Python
-- FastAPI
-- Odoo
-- PostgreSQL
-- Docker
+• Desarrollo de APIs con FastAPI, Flask y Django  
+• Desarrollo y mantenimiento de módulos personalizados para Odoo  
+• Interesado en sistemas backend, integraciones con ERP y automatización
 
 
 
