@@ -1,6 +1,7 @@
 # 👋 Hola, soy Felipe Reynoso
 
 En camino a ser AI Engineer
+
 • Desarrollo de APIs con FastAPI, Flask y Django  
 • Desarrollo y mantenimiento de módulos personalizados para Odoo  
 • Interesado en sistemas backend, integraciones con ERP y automatización
